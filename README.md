@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @PlatoBwoy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm PlatoBwoy
 
-<!---
-PlatoBwoy/PlatoBwoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Artificial Intelligence, Robotics, IoT, Embedded Systems, Web Development, and Automation.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Arduino Programming, and Machine Learning.
+- 💞️ I’m looking to collaborate on AI projects, IoT systems, Robotics, Open Source projects, and innovative software solutions.
+- 📫 How to reach me:
+  - Email: your-email@example.com
+  - LinkedIn: https://linkedin.com/in/yourprofile
+  - Portfolio: https://yourwebsite.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy building smart systems that combine AI with real-world hardware, from automated aquaponics to robotics projects.
